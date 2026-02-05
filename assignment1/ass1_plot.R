@@ -1,0 +1,6 @@
+getwd()
+list.files("data")
+library(ggplot2)
+gapminder <- read.csv("data/gapminder.csv")
+head(gapminder)
+str(gapminder)
