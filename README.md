@@ -1,13 +1,3 @@
-# Chinese BRI Investment and Institutional Quality
-## AQMSS Final Paper
-
-## Overview
-This repository contains the R script for my quantitative analysis examining 
-whether domestic institutional characteristics influence the allocation of 
-Chinese BRI investment across recipient countries.
-
-## Data Sources
-
 #AQMSS II 
 ## Milly Lambert 
 
